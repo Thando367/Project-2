@@ -1,5 +1,5 @@
-## Wine Price Prediction
-#  Author: Thandolwethu Siloyi
+# Wine Price Prediction
+##  Author: Thandolwethu Siloyi
 
 ### Business Problem
 Stakeholders need to price their wines competitively, but they may not have experience or data to do so effectively. They have to price their wine competively.
