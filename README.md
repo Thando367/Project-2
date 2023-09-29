@@ -1,3 +1,18 @@
-### Wine Price Prediction
-Context
-This dataset is related to red variants of spanish wines. The dataset describes several popularity and description metrics their effect on it's quality. The datasets can be used for classification or regression tasks. The classes are ordered and not balanced (i.e. the quality goes from almost 5 to 4 points). The task is to predict either the quality of wine or the prices using the given data.
+## Wine Price Prediction
+#  Author: Thandolwethu Siloyi
+
+### Business Problem
+Stakeholders need to price their wines competitively, but they may not have experience or data to do so effectively. They have to price their wine competively.
+Pricing of the wine should be not low or high, if they do pricing it should be the market price.
+
+### Stakeholders
+The stakeholders are wine consumers, wine makers, and wine retailers. Wine consumers will benefit from the model by having variety of wines at affordable prices.
+
+### Data Description
+This project aims to predict the price of wine using machine learning to help the stakeholders to make better decisions on the market. The data consist of features such as winery, rating, number of reviews, region, type, body, and acidity. We are predicting the price.
+
+### Data Source
+The dataset is from Kaggle
+https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
+
+
