@@ -16,4 +16,9 @@ The dataset is from Kaggle
 https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
 ### Analytical Insights
+The graph shows the relationship between price and acidity. The stakeholders can increase the price of their wines by reducing the 
 ![Alt Text](https://github.com/Thando367/Project-2/blob/02d62901750fea04527ff41d8debf8b7e615bcf6/Price%20and%20Rating.png)
+
+
+
+![https://github.com/Thando367/Project-2/blob/ce9e0383d7d48629be48258924b1ccbc52c476e5/price%20and%20type.png]
