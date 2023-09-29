@@ -15,4 +15,5 @@ This project aims to predict the price of wine using machine learning to help th
 The dataset is from Kaggle
 https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
-
+### Analytical Insights
+Price and Rating.png
