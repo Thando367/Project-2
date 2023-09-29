@@ -16,4 +16,4 @@ The dataset is from Kaggle
 https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
 ### Analytical Insights
-![Alt Text](Price and Rating.png)
+![Alt Text](https://github.com/Thando367/Project-2/blob/02d62901750fea04527ff41d8debf8b7e615bcf6/Price%20and%20Rating.png)
