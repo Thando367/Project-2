@@ -15,9 +15,12 @@ This project aims to predict the price of wine using machine learning to help th
 The dataset is from Kaggle
 https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
-### Analytical Insights
-The graph shows the relationship between price and acidity. The stakeholders can increase the price of their wines by reducing the 
-![Alt Text](price and type.png)
+### Analytical Insights 
+## Price and Type of Wine
+The graph shows the relationship between price and type of wine. Red wine are more expensive than white wines followed by other types, lastly is white wine. Pricing of the wine is influenced by other factors. It is clear that stakeholder may charge higher prices for red wines compared to white and other wines.
+![Alt Text](https://github.com/Thando367/Project-2/blob/27c94a988b172b4dc984f0ebfa207a72065e795c/price%20and%20type.png)
+
+## Price and Type of Wine
 
 
 
