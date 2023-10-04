@@ -16,11 +16,11 @@ The dataset is from Kaggle
 https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
 ### Analytical Insights 
-## Price and Type of Wine
+### Price and Type of Wine
 The graph shows the relationship between price and type of wine. Red wine are more expensive than white wines followed by other types, lastly is white wine. Pricing of the wine is influenced by other factors. It is clear that stakeholder may charge higher prices for red wines compared to white and other wines.
 
 ![Alt Text](https://github.com/Thando367/Project-2/blob/27c94a988b172b4dc984f0ebfa207a72065e795c/price%20and%20type.png)
 
 ## Type of Wine and Ratings
-
+The image shows a bar chart 
 ![Alt Text](https://github.com/Thando367/Project-2/blob/2bcf0d99910414e0a598ceb3a2b49764b1387ace/Rating%20and%20Types%20of%20Wine.png)
